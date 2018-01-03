@@ -11,6 +11,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "node-dash-button": "^0.6.1"
+    "node-dash-button": "^0.6.1",
+    "applescript": "^1.0.0"
   }
 }
